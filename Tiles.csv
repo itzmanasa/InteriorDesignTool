@@ -1,0 +1,11 @@
+Tile ID,Tile Name,Cost per Square Meter (INR),Country of Origin
+TID001,Ceramic Tile,800,India
+TID002,Porcelain Tile,1200,Italy/Spain
+TID003,Mosaic Tile,1500,Turkey
+TID004,Glass Tile,2000,USA
+TID005,Marble Tile,3500,Italy
+TID006,Granite Tile,2800,India
+TID007,Slate Tile,2200,Brazil
+TID008,Terracotta Tile,1000,Mexico
+TID009,Cement Tile,900,India
+TID010,Vinyl Tile,750,China

@@ -1,0 +1,13 @@
+Wood ID,Wood Name,Cost per Square Meter (INR),Country of Origin
+WID001,Oak,3500,USA/Europe
+WID002,Maple,3000,Canada
+WID003,Walnut,5000,North America
+WID004,Cherry,4000,USA
+WID005,Mahogany,6000,Central America
+WID006,Teak,7000,Myanmar/India
+WID007,Birch,2500,Russia/Scandinavia
+WID008,Ash,2800,Europe/North America
+WID009,Pine,1500,Various (Global)
+WID010,Rosewood,8000,India/Brazil
+WID011,Bamboo (Solid),2200,Asia (Various)
+WID012,Cedar,4500,North America

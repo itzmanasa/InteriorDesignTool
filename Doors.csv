@@ -1,0 +1,21 @@
+Door ID,Door Name,Cost per Door (INR),Material Origin
+DID001,Oak Wood Door,12000,USA/Europe
+DID002,Maple Wood Door,10000,Canada
+DID003,Walnut Wood Door,15000,North America
+DID004,Cherry Wood Door,13000,USA
+DID005,Mahogany Wood Door,18000,Central America
+DID006,Teak Wood Door,20000,Myanmar/India
+DID007,Birch Wood Door,9000,Russia/Scandinavia
+DID008,Ash Wood Door,9500,Europe/North America
+DID009,Pine Wood Door,7000,Various (Global)
+DID010,Rosewood Door,22000,India/Brazil
+DID011,Bamboo Solid Door,6000,Asia (Various)
+DID012,Cedar Wood Door,11000,North America
+DID013,Plastic Door,4000,India
+DID014,PVC Door,4500,China
+DID015,Steel Door,8000,USA
+DID016,Aluminum Door,7500,Germany
+DID017,Glass Door,10000,Italy
+DID018,Fiberglass Door,9500,Canada
+DID019,Composite Door,11500,UK
+DID020,uPVC Door,6500,India

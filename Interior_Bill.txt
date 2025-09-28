@@ -1,0 +1,14 @@
+=========================== DETAILED BILL ===========================
+--- Main Components ---
+Wood (Oak): 64.00 sq.m x Rs. 3500.00 = Rs. 224000.00
+Window (uPVC Window): 1.00 units x Rs. 0.00 = Rs. 0.00
+Door (uPVC Door): 1.00 units x Rs. 6500.00 = Rs. 6500.00
+Tiles (Vinyl Tile): 80.00 sq.m x Rs. 750.00 = Rs. 60000.00
+Paint (Epoxy Paint): 0.00 sq.m x Rs. 250.00 = Rs. 95597.49
+--- Accessories Used ---
+Accessory Total: Rs. 23300.00
+--------------------------------------------------------------------
+TOTAL EXPENSE : Rs. 409397.50
+BUDGET        : Rs. 3000000.00
+UNDER BUDGET by Rs. 2590602.50
+====================================================================

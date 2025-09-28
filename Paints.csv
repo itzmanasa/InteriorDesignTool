@@ -1,0 +1,11 @@
+Paint ID,Paint Name,Cost per Square Meter (INR),Country of Origin
+PID001,Emulsion Paint,120,India
+PID002,Enamel Paint,150,USA
+PID003,Distemper,70,India
+PID004,Textured Paint,200,Italy
+PID005,Cement Paint,90,India
+PID006,Acrylic Paint,140,Germany
+PID007,Oil-Based Paint,160,USA
+PID008,Latex Paint,130,UK
+PID009,Silicone Paint,180,Japan
+PID010,Epoxy Paint,250,Germany

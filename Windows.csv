@@ -1,0 +1,21 @@
+Window ID,Window Name,Cost per Window (INR),Material Origin
+WND001,Oak Wood Window,8000,USA/Europe
+WND002,Maple Wood Window,7500,Canada
+WND003,Walnut Wood Window,9500,North America
+WND004,Cherry Wood Window,8500,USA
+WND005,Mahogany Wood Window,11000,Central America
+WND006,Teak Wood Window,12000,Myanmar/India
+WND007,Birch Wood Window,6500,Russia/Scandinavia
+WND008,Ash Wood Window,7000,Europe/North America
+WND009,Pine Wood Window,5000,Various (Global)
+WND010,Rosewood Window,13000,India/Brazil
+WND011,Bamboo Solid Window,4500,Asia (Various)
+WND012,Cedar Wood Window,7800,North America
+WND013,PVC Window,3500,China
+WND014,Aluminum Sliding Window,6000,Germany
+WND015,uPVC Casement Window,5500,India
+WND016,Glass Window,6800,Italy
+WND017,Steel Frame Window,7200,USA
+WND018,Fiberglass Window,6900,Canada
+WND019,Composite Window,8500,UK
+WND020,Double-Hung Window,9000,USA
